@@ -1,8 +1,5 @@
 ### Hi there 👋. I'm **fedesito**, a.k.a lbertitoyt
 
-<br />
-<br />
-
 **About me!**
 
 - 🔭 I’m currently working on probably something related to a stupid android game
