@@ -1,4 +1,4 @@
-### Hi there 👋. I'm **fedesito**, a.k.a lbertitoyt
+### Hi there 👋. I'm **fedesito**
 
 **About me!**
 
