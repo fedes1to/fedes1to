@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on probably something related to a stupid android game
 - 🌱 I’m currently exploring reverse engineering!
 - 📫 How to reach me: just use discord lol (@fedesito)
-- 👨🏽‍💻 I’m currently a 12th grade student, yeah...
 
 **Langs**
 
