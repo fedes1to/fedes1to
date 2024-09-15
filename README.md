@@ -6,6 +6,8 @@
 - 🌱 I’m currently exploring reverse engineering!
 - 📫 How to reach me: just use discord lol (@fedesito)
 
+Studying CS at UC3M
+
 **Langs**
 
 - C# and C++, and also I hate java 👍
