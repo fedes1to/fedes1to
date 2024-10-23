@@ -8,6 +8,8 @@
 
 Studying CS at UC3M
 
+you should join btw: https://discord.gg/RHyZAgxSSD
+
 **Langs**
 
 - C# and C++, and also I hate java 👍
