@@ -1,7 +1,7 @@
 # Hi there, I'm fedes1to 👋
 
 ## About Me
-I'm a passionate developer with a love for creating innovative solutions and learning new technologies. I enjoy working on open-source projects and contributing to the developer community.
+I'm a passionate developer with a love for modifying games in a fun manner. I specialize in Android and Android Games.
 
 - 🔭 I’m currently working on IL2Cpp decompilation
 - 🌱 I’m currently learning C++ (2023)
