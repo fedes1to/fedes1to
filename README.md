@@ -25,5 +25,3 @@ I'm a passionate developer with a love for modifying games in a fun manner. I sp
 ## 💡 Featured Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fedes1to&repo=XposedImGuiMenu&theme=dracula)](https://github.com/fedes1to/XposedImGuiMenu)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fedes1to&repo=Stardust-PG3D-Menu&theme=dracula)](https://github.com/fedes1to/Stardust-PG3D-Menu)
-
-100550195
