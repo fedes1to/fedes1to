@@ -20,8 +20,7 @@ I'm a passionate developer with a love for modifying games in a fun manner. I sp
 - ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 ## 📈 GitHub Stats:
-![fedes1to's GitHub stats](https://github-readme-stats.vercel.app/api?username=fedes1to&show_icons=true&theme=dracula)
+![fedes1to's GitHub stats](./profile/stats.svg)
 
-## 💡 Featured Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fedes1to&repo=XposedImGuiMenu&theme=dracula)](https://github.com/fedes1to/XposedImGuiMenu)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fedes1to&repo=Stardust-PG3D-Menu&theme=dracula)](https://github.com/fedes1to/Stardust-PG3D-Menu)
+## 💡 Top Languages:
+![fedes1to's top languages](./profile/top-langs.svg)
