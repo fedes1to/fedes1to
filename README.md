@@ -6,7 +6,7 @@ https://fedesito.me
 I'm a passionate developer with a love for modifying games in a fun manner. I specialize in Android and Android Games.
 
 - 🔭 I’m currently working on IL2Cpp decompilation
-- 🌱 I’m currently learning C++ (2023)
+- 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on Android modding projects
 - 🤔 I’m looking for help with Mono.Cecil
 - 💬 Ask me about Android modding
