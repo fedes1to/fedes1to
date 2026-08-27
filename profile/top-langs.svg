@@ -129,7 +129,7 @@
       <svg data-testid="lang-progress" width="40.82579187995653%">
         <rect
             height="8"
-            fill="#178600"
+            fill="#7355dd"
             rx="5" ry="5" x="0" y="0"
             class="lang-progress"
             style="animation-delay: 750ms;"
